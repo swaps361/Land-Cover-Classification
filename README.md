@@ -76,11 +76,11 @@ The project also implements **Grad-CAM** (Gradient-weighted Class Activation Map
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/satellite-image-classification.git
+    git clone https://github.com/swaps361/land-cover-classification.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd satellite-image-classification
+    cd land-cover-classification
     ```
 3. Install the required dependencies:
     ```bash
